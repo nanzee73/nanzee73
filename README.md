@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 hi there i am nanzee73
+👀 interested in: C64, demo coding, computer generated graphics / music, python / JAVA / C / C++ / C# coding, micro controllers, LINUX
 <!--
 **nanzee73/nanzee73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
